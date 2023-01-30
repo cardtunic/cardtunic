@@ -1,7 +1,7 @@
 # Opa, eae? <img width="40px" height="40px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cardtunic&count_private=true&show_icons=true&theme=default&bg_color=d00062&icon_color=ffffff&text_color=ffffff&ring_color=5c002a&hide_title=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardtunic&count_private=true&show_icons=true&theme=default&bg_color=d00062&text_color=ffffff&hide_title=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cardtunic&count_private=true&show_icons=true&theme=default&bg_color=d00062&icon_color=ffffff&text_color=ffffff&ring_color=5c002a&hide_title=true&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardtunic&count_private=true&show_icons=true&theme=default&bg_color=d00062&text_color=ffffff&hide_title=true&hide_border=true"/>
 </p>
 
 ---
