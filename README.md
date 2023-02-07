@@ -14,7 +14,7 @@
 
 Sou relativamente novo no mundo da programação, e estou estudando as tecnologias base que compõem o front-end. Agora estou aplicando os conceitos que estudei durante um tempo na prática, começando a de fato publicar meus códigos por aqui no Github. Fica à vontade para dar uma olhada ❤️
 
-- 🔭 Estou atualmente trabalhando no [habits.](https://github.com/cardtunic/habits)
+- 🔭 Estou atualmente trabalhando no [habits.](https://github.com/cardtunic/habits) e no [macrowizard_](https://github.com/cardtunic/macrowizard)
 - 🌱 Estou apredendendo HTML, CSS e JS 
 - 😄 Pronomes: ele/dele
 
