@@ -9,8 +9,7 @@
 <h3 align="center">✨ Eu sou o cardtunic! Seja bem-vinde ao meu Github ✨</h3>
 
 <p align="center">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+<img align="center" width="300" src="https://skillicons.dev/icons?i=js,html,css,figma,git,php"/></p>
 
 Sou relativamente novo no mundo da programação, e estou estudando as tecnologias base que compõem o front-end. Agora estou aplicando os conceitos que estudei durante um tempo na prática, começando a de fato publicar meus códigos por aqui no Github. Fica à vontade para dar uma olhada ❤️
 
