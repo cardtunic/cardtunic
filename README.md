@@ -9,16 +9,15 @@
 <h3 align="center">✨ Eu sou o cardtunic! Seja bem-vinde ao meu Github ✨</h3>
 
 <p align="center">
-<img align="center" width="300" src="https://skillicons.dev/icons?i=js,html,css,figma,git,php"/></p>
+<img align="center" width="400" src="https://skillicons.dev/icons?i=js,react,next,tailwind,html,css,figma,git,php"/></p>
 
-Sou relativamente novo no mundo da programação, e estou estudando as tecnologias base que compõem o front-end. Agora estou aplicando os conceitos que estudei durante um tempo na prática, começando a de fato publicar meus códigos por aqui no Github. Fica à vontade para dar uma olhada ❤️
+Estou estudando as tecnologias que compõem a base do desenvolvimento front-end, atualmente apredendo os fundamentos do React, Next.JS e TailwindCSS. Em breve estarei atualizando os projetos daqui, fica à vontade para dar uma olhada 👀
 
-- 🔭 Estou atualmente trabalhando no [habits.](https://github.com/cardtunic/habits) e no [macrowizard_](https://github.com/cardtunic/macrowizard)
-- 🌱 Estou apredendendo HTML, CSS e JS 
+- 🔭 Atualmente os projetos [habits.](https://github.com/cardtunic/habits) e [macrowizard_](https://github.com/cardtunic/macrowizard) estão parados (em breve atualizações)
+- 🌱 Estou apredendendo ReactJS, Next.JS e TailwindCSS
 - 😄 Pronomes: ele/dele
 
-## 📫 Me encontre aqui
+## 📫 Me encontre aqui!
 
-[![Twitter Badge](https://img.shields.io/badge/-@cardtunic-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/cardtunic)](http://twitter.com/cardtunic)
 [![Gmail Badge](https://img.shields.io/badge/-tuniccontato@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tuniccontato@gmail.com)](mailto:tuniccontato@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-KalebMendes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaleb-souza-mendes-a696991b0/)](https://www.linkedin.com/in/kaleb-souza-mendes-a696991b0/)
