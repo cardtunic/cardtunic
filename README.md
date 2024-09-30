@@ -9,7 +9,7 @@
 <h3 align="center">✨ Eu sou o cardtunic! Seja bem-vinde ao meu Github ✨</h3>
 
 <p align="center">
-<img align="center" width="400" src="https://skillicons.dev/icons?i=js,react,next,tailwind,html,css,figma,git,php"/></p>
+<img align="center" width="400" src="https://skillicons.dev/icons?i=js,react,next,tailwind,laravel,html,css,figma,git,php"/></p>
 
 Estou estudando as tecnologias que compõem a base do desenvolvimento front-end, atualmente apredendo os fundamentos do React, Next.JS e TailwindCSS. Em breve estarei atualizando os projetos daqui, fica à vontade para dar uma olhada 👀
 
