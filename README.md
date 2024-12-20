@@ -19,5 +19,5 @@ Estou estudando as tecnologias que compõem a base do desenvolvimento front-end,
 
 ## 📫 Me encontre aqui!
 
-[![Gmail Badge](https://img.shields.io/badge/-kaleb.myjobs@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tuniccontato@gmail.com)](mailto:tuniccontato@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kaleb.myjobs@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaleb.myjobs@gmail.com)](mailto:kaleb.myjobs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-KalebMendes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaleb-souza-mendes-a696991b0/)](https://www.linkedin.com/in/kaleb-souza-mendes-a696991b0/)
